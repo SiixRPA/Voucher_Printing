@@ -1,0 +1,14 @@
+﻿{
+  "Name": "DO",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "SccVqX-nGUqLI_t3ZnQY2Q",
+  "Reference": "8_bOyA61GkGneZmnIj78OQ/SccVqX-nGUqLI_t3ZnQY2Q",
+  "ParentRef": "8_bOyA61GkGneZmnIj78OQ/HIGgobl7Rke_Me5iMhPFsw",
+  "Created": "2025-01-29T10:11:24.0258937Z",
+  "Updated": "2025-01-29T10:11:24.0258937Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

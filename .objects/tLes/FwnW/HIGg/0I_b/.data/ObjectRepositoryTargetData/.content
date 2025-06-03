@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="jIN_7Ww5jUeVPmQDghohoQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="b6ca8f7c-0635-4aec-b413-e207c37882ba" CvElementArea="96, 425, 14, 14" CvTextArea="99, 428, 8, 8" CvTextArgument="+" CvType="Button" DesignTimeRectangle="96, 425, 14, 14" DesignTimeScaleFactor="1" ElementType="Button" Guid="6557d9c0-5a26-492f-be19-e0a212398df1" ScopeSelectorArgument="&lt;wnd app='firefox.exe' cls='MozillaWindowClass' title='Oracle Applications Home Page - Mozilla Firefox' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="b6ca8f7c-0635-4aec-b413-e207c37882ba" CvTextArea="131, 429, 30, 13" CvTextArgument="Entry" CvType="Text" DesignTimeRectangle="131, 429, 30, 13" ElementType="Text" Guid="929c30a1-b39d-4292-bba9-e8bba2068d79" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="cb0c052bc6ea4548ad5ddbca7d10d6ed.png" xmlns="">0InNSkN8t6kCATB6-oO96Cg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

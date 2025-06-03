@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="o1Ha_Fscx0-csL2Vr_qPkA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="781, 380, 126, 30" DesignTimeScaleFactor="1" Guid="64bf34bc-9c02-45f1-9fbb-4939501d27ae" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAH4AAAAeCAYAAADq16rSAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGDSURBVGhD7ZZLbsMwDER97C57kay760EK3ymFFjSYMX+KHAkwaeABQ3L0MQZGsu37/izyUcEnpYJPSgWflJfg/35/iiQcwbfi8f1VJOEUPNXFvangk1LBJ6WCT4oa/LZth+Zo/U/inRm5E/dY/hnvN+MMDzN46YIrLu2dGblT9N5X+yRG1l6F+8XjJVddWjs3ep9VPomRtVcxHHyrCcvDNfq5B/tEtN9qAvuSppp62oz3pZ7V5zPSOJ9N6Dc+onnd2yeNc8Ra79VRrc2wtmZYo0bvCj4SPNe9fgtrvYS2v6almtOzrse7glDwvMYXQkb9HuTT/LQvwfue1mpO1MfnXEv1CoaDJ4286/eQ9sWZVEf0VTOkxzuLcPDU433vhXpqnFloXtxP29/S78y8GjV6V9AVvNSnF5H8Wk/yS14Ny8v35j5NUy2tsWa8jz3s8xlpnM9GDb64NxV8Uir4pFTwSangk3IE32jh87q4Ly/BN+rJ8Zy++CIHp9/4Igf15y4l+/MfGLUKbX3fdhEAAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;wnd app='jp2launcher.exe' cls='SunAwtFrame' title='Oracle Applications - SEPPROD (Created on 15-DEC-2017)' /&gt;" SearchSteps="Image" TargetType="ImageBased" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="eeb09e3788b8adf615387d7416131579.png" xmlns="">0SeSC2Hj3MEWO2m3wtFYLIA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

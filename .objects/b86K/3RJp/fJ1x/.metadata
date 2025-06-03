@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Oracle Applications - SEPPROD (Created on 15-(1)",
+  "Type": "Screen",
+  "Id": "fJ1xTf8V-0a_gNYM1ALSwg",
+  "Reference": "8_bOyA61GkGneZmnIj78OQ/fJ1xTf8V-0a_gNYM1ALSwg",
+  "ParentRef": "8_bOyA61GkGneZmnIj78OQ/3RJp2XMtWUKpqmIAtr2shg",
+  "Created": "2025-02-03T10:23:01.3207808Z",
+  "Updated": "2025-02-03T10:23:01.3207808Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

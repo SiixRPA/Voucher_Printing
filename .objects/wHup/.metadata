@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Security Warning",
+  "Type": "App",
+  "Id": "wHupUDhDsEqsWMd_v-6Kww",
+  "Reference": "8_bOyA61GkGneZmnIj78OQ/wHupUDhDsEqsWMd_v-6Kww",
+  "Created": "2025-01-28T09:36:28.2474831Z",
+  "Updated": "2025-01-28T09:36:28.2474831Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

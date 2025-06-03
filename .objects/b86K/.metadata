@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Oracle Applications - SEPPROD (Created on 15-DEC-2017)",
+  "Type": "App",
+  "Id": "b86KKEmfAUqKKPm1heOqfg",
+  "Reference": "8_bOyA61GkGneZmnIj78OQ/b86KKEmfAUqKKPm1heOqfg",
+  "Created": "2025-01-28T09:37:40.0797859Z",
+  "Updated": "2025-01-28T09:37:40.0797859Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

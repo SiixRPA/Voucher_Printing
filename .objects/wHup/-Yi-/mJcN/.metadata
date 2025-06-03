@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Security Warning",
+  "Type": "Screen",
+  "Id": "mJcNAR4IsUywz36xvW-Uew",
+  "Reference": "8_bOyA61GkGneZmnIj78OQ/mJcNAR4IsUywz36xvW-Uew",
+  "ParentRef": "8_bOyA61GkGneZmnIj78OQ/-Yi-UXiMc02XYlQZXsxGKw",
+  "Created": "2025-01-28T09:36:28.3026761Z",
+  "Updated": "2025-01-28T09:36:28.3026761Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

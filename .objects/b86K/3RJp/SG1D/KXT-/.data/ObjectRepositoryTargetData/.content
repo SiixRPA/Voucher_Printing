@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="UjaKJQz-wEOvYgW4bXpOLQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="66ce9c52-06d8-4955-bf98-44aa04e9ff05" CvElementArea="782, 383, 180, 24" CvType="InputBox" DesignTimeRectangle="783, 384, 178, 23" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;java name='Invoice Workbench (SEP Payables Super User)' role='internal frame' /&gt;&lt;java name='1 General tab page Status' role='text' /&gt;" FuzzySelectorArgument="&lt;java name='Invoice Workbench (SEP Payables Super User)' role='internal frame' /&gt;&lt;java name='1 General tab page Status' role='text' check:text='Never Validated' /&gt;" Guid="4b6779db-12a3-4108-9862-eaf98c2da0da" ScopeSelectorArgument="&lt;wnd app='jp2launcher.exe' cls='SunAwtFrame' title='Oracle Applications - SEPPROD (Created on 15-DEC-2017)' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="b6e8adb84fc8217543b8539cce44de8b.png" xmlns="">067TGJ1M3Ik6jautIq3RbTQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckElement</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

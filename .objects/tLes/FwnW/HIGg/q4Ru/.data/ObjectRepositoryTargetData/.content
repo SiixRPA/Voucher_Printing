@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="oLO1gUkg_E22JPKyHSbkTA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="a7cace3b-6a27-4fb0-99f1-553eb3397a96" CvTextArea="31, 84, 31, 15" CvTextArgument="Login" CvType="Text" DesignTimeRectangle="8, 78, 57, 24" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;uia automationid='PersonalToolbar' name='Bookmarks Toolbar' role='tool bar' /&gt;&lt;uia name='Login' role='button' /&gt;" FuzzySelectorArgument="&lt;uia automationid='PersonalToolbar' name='Bookmarks Toolbar' role='tool bar' /&gt;&lt;uia name='Login' role='button' automationid='' check:fulltext='Login' /&gt;" Guid="b31d2e96-a2f1-4935-8228-d82d433b0b93" ScopeSelectorArgument="&lt;wnd app='firefox.exe' cls='MozillaWindowClass' title='New Tab - Mozilla Firefox' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="eefc567e25cc9764565ce0e02b69a41b.png" xmlns="">0JKrA6U7GRkKyoXDAeX7OQA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

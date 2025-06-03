@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="f1XaVfKZ7UOGKZSasVg4tQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="1898, 898, 18, 17" DesignTimeScaleFactor="1" Guid="ca641c18-e78c-44f9-9931-502862f7c362" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABIAAAARCAYAAADQWvz5AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF4SURBVDhP1dFNS8MwGAdwP4kfwY/hZ/AVEQ+KsLugJ5FtMvA29Sx4Eqdn8eBlR/Flc0w3KXO6brradi9t0yb9mwQyBu0mwi4W/iSE5JcnT6cMB5hE/hl0rxEcXhOkLizsnZtyLtbi9sZCCkhf2nLOwhABDeV8+7SFZM6MgLGQull8jEEirh+i5zLYfYqbR1tiw2cikABEJSFHKEcS2SfkdaDLEYsjbZuiaQbYPNYkqM5FIFUNZSFIEGI1b2E5UxiA+neA+pcvkY0jbTSUzFkDxCEMHYfB7DEJzu48yFFrElQaHlYOyqOh3TMDhPej7/F+OBRGl+LTCiQwvXYrx0qDoFQnWMyURkPqaXafwejQASByxddfPjyOuL8/TSBbJzraHBFNnUncSeBVV4iHYs3FfLo4vtki4teKTfW2D63lo8qR53eOvHko1LxINSKxkKhKYOvZqjxU5sgTR8R8LlWQyHA1IrGQirp5iTd1Yb8YC6iMhf6SCUHADyLEbUVoKp2uAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;wnd app='firefox.exe' cls='MozillaWindowClass' title='Subledger Journal Entry - Mozilla Firefox' /&gt;" SearchSteps="Image" TargetType="ImageBased" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1763, 870, 43, 20" Guid="75dc1a61-5588-4013-93d9-48314bbeb51d" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACsAAAAUCAYAAAAUccS4AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACMSURBVEhL7dIxCoAwDIVhb9y79R7Obk6eoNCpQyRCIJYgNSFCMcKPwgP5qC6lVJilwHoVWK8C69W/sDlnSCld4fPopkmNJQS27g3w4iiC8o3q3zWa6WQ5Bu/b0W4oaZPeM5oZyzEc9LRpM2HpU3NM/xtImzbzyRJKwvQb3vn+NhP26wLrVWC9mghb4QR2362ZVSWDhwAAAABJRU5ErkJggg==" SearchSteps="Image" TargetType="ImageBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b9ac43ad1cea015e27d0182036ef5dad.png" xmlns="">03MsF5SD0AEGnh2SfsMmgZA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

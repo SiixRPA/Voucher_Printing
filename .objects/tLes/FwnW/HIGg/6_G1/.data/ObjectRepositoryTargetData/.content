@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Al1UUjZkr0mfxK5_5U1fWg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="b20a4b9f-9af4-4f30-b463-68e71b311c8e" CvTextArea="135, 467, 46, 12" CvTextArgument="Invoices" CvType="Text" DesignTimeRectangle="135, 467, 46, 12" DesignTimeScaleFactor="1" ElementType="Text" Guid="12edf1db-b054-49bc-8982-1c550e12662c" ScopeSelectorArgument="&lt;wnd app='firefox.exe' cls='MozillaWindowClass' title='Oracle Applications Home Page - Mozilla Firefox' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="b20a4b9f-9af4-4f30-b463-68e71b311c8e" CvElementArea="116, 461, 19, 17" CvType="Icon" DesignTimeRectangle="114, 459, 23, 21" ElementType="Icon" Guid="f2939fce-af3c-43cc-87e5-d9dd3ce730ba" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABcAAAAVCAYAAACt4nWrAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJISURBVEhLvdP9S1NRHMfx/h//D0N6oCcoioKoSFpOnVvb2KbLhWFK05tLLWfaKouKHn+tbMQayAwSilbars7dOd21mtLDrn463yP35un0Q4Fr8Gb+IC++O99zNhUWl1GpKoZX+ZXK4dT/xYef/kDopo7WG0UEr8+jOVaAf1iD94qGU9EsnJem0dCbgT0yCZvyHrXhNI51vkXX/SXBoSQ8NKKDPk8my//UobbXgkNJOJ/42jwCV+fYxHl4BnNwDWTR1K/yievYxCe60zgefocjHW9wuH0CBxm8P/RKcCgJb2GwYazia3kVpe+/Ki6vQPsipuoG0gsGJjQDe4MpwaEkPBDLW3DP4yVEWMrDEroefEbn3UW039ZxZmSB/TraRR7uaA7jswZ2B8YEh5Jw35C2Di/xiakOBtOkVDA2h52+JM/Zn+U4/f27JeHu6KyFd7OJTfzsraKF+9jNMfH6iyrHt3sSglNIPpJx1+UZlL6tnfH5e59w7o6ONga30pLZMXgHNfY/s3D0zbDrqOLkBRUv1TK2ul4IDiXhjj7Vwul8zQn9Q3m+PKqxd9papE3JcLzGGRccSsLtkSkOa6UVvjgT97DFEUbZe1T+nWLHQXg8U8Zmx6jgUBJuUz5YeAtbHC3YPZBj9zyLejZxHYMJXB/h1Q3PBIeS8Fr2OAg277AZTTqeE6PjiH9ce6F/hQdiOn919JwPsFe373QKe5rHsMufxA5vAtvcCWxhy6tpeo7qxlGOUkfDU4JDSfhGVjn8T/d8I6sYXuVX8BOjObZnyS3ZTgAAAABJRU5ErkJggg==" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="675b4bd7e378a76631fe55709dcf5c6b.png" xmlns="">0oOv6VQQ2qEOmmz4eEKLcLA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

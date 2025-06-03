@@ -1,0 +1,13 @@
+﻿{
+  "Name": "View Accounting mnemoni…",
+  "Type": "Element",
+  "Id": "9dzLEUHfsUqW6VftNWN1UQ",
+  "Reference": "8_bOyA61GkGneZmnIj78OQ/9dzLEUHfsUqW6VftNWN1UQ",
+  "ParentRef": "8_bOyA61GkGneZmnIj78OQ/SG1DysCe5ka3IVyPflfYhA",
+  "Created": "2025-01-28T10:53:43.617961Z",
+  "Updated": "2025-01-28T10:53:43.617961Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "firefox.exe Oracle Appl…",
+  "Type": "Element",
+  "Id": "XOPsvAosEkq2JRkrAVwbQQ",
+  "Reference": "8_bOyA61GkGneZmnIj78OQ/XOPsvAosEkq2JRkrAVwbQQ",
+  "ParentRef": "8_bOyA61GkGneZmnIj78OQ/HIGgobl7Rke_Me5iMhPFsw",
+  "Created": "2025-01-29T05:52:52.7216777Z",
+  "Updated": "2025-01-29T05:52:52.7216777Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

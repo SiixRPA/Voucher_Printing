@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="I6jlALKskUSwhtx9r9hOJQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="1ef324f2-fb58-471b-b1aa-79eeff2cfc66" CvElementArea="84, 56, 223, 19" CvType="InputBox" DesignTimeRectangle="81, 55, 228, 21" DesignTimeScaleFactor="1" ElementType="DropDown" FullSelectorArgument="&lt;wnd ctrlid='1139' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlid='1139' /&gt;" Guid="b2a4a357-b757-4edf-9afb-a7bafca2bb01" ScopeSelectorArgument="&lt;wnd app='firefox.exe' cls='#32770' title='Print' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="1ef324f2-fb58-471b-b1aa-79eeff2cfc66" CvTextArea="26, 59, 32, 12" CvTextArgument="Name:" CvType="Text" DesignTimeRectangle="27, 59, 54, 13" ElementType="Text" FullSelectorArgument="&lt;wnd ctrlid='1093' title='&amp;amp;Name:' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlid='1093' title='&amp;amp;Name:' check:text='&amp;amp;Name:' /&gt;" Guid="80a03563-95f6-4284-a2b1-93b32a6cb376" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="710facb141ad4cba87bbfb8048350f13.png" xmlns="">0ad4P4pEkYE-Iy5MaLG707g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

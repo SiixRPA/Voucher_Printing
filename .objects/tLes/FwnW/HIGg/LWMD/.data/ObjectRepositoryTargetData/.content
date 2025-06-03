@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="jW28EuKI-kWMeFXXds7rGg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="e773ef25-4e91-4d55-a4e0-2719f36c68ec" CvTextArea="1858, 587, 38, 11" CvTextArgument="Next 2" CvType="Text" DesignTimeRectangle="1858, 587, 38, 11" DesignTimeScaleFactor="1" ElementType="Text" Guid="2382d5af-354c-428e-96a0-ed38f4bec943" ScopeSelectorArgument="&lt;wnd app='firefox.exe' cls='MozillaWindowClass' title='Subledger Journal Entry - Mozilla Firefox' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e773ef25-4e91-4d55-a4e0-2719f36c68ec" CvElementArea="1899, 584, 17, 17" CvType="ArrowButton" DesignTimeRectangle="1899, 584, 17, 17" ElementType="ArrowButton" Guid="275e0be2-e2a2-46d6-b91c-10a40fc4adbb" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          <Target CVScreenId="e773ef25-4e91-4d55-a4e0-2719f36c68ec" CvTextArea="1714, 609, 143, 14" CvTextArgument="Supporting References" CvType="Text" DesignTimeRectangle="1714, 609, 143, 14" ElementType="Text" Guid="1ee11eb1-0081-4f06-8c29-f7aa487b7171" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c0c4b7217ff2ee52937acd594ece83bc.png" xmlns="">0FbPQ-NIWSkqpAm4dpiJiPA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

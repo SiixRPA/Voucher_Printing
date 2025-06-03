@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Firefox Subledger Journal Entry Lines - Mozil",
+  "Type": "Screen",
+  "Id": "8Ymhsi4bUEWZapQewwibZw",
+  "Reference": "8_bOyA61GkGneZmnIj78OQ/8Ymhsi4bUEWZapQewwibZw",
+  "ParentRef": "8_bOyA61GkGneZmnIj78OQ/FwnWjwuVdkuKkGsC0i4ncA",
+  "Created": "2025-01-28T10:54:07.964037Z",
+  "Updated": "2025-01-28T10:54:07.964037Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

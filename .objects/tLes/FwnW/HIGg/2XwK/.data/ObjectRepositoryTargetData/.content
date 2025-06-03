@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="l9p11Fv3KkGeBC0QTNCRyQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="1857, 898, 61, 18" DesignTimeScaleFactor="1" Guid="1402256a-81ac-41d3-89c3-5fe7bf822008" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAD0AAAASCAYAAADomNYKAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKpSURBVFhH7ZXPaxNBFMf9S/wHCv4Z3nPzJyIeFKGnXAR7EmkrBQ8pVc8ScxGr9BCoePBSgmiImrQ0thJitGlNYpK2SXaT3f365mVnd3bdmF0RpU0DX3bm7TxmP+/7ZnKq0QUmSW/e5nECPQk6FtDvSzoevNIx97yFu8+aPBaxoLVCRxpaws6/aPPYtCwMDIvHt5/sYXa5GQjvhS5nEJtJILZacxdxLI0VOY+sGhYTSSyWg95JFRGnfacchdtPOip+pgkG7vUtHPZMtDsGXn9sM7g/LwA6iVhC2fRfQNMecaXQudUkphIZ5NQ1PglY4bBFwAYBTy+tY60KHBBwi4DrbQO7zQFuPioxvJobAE2A2bTr9i/QAkI6ImHsWKporwFWUmL+TllrawwMK0ShpcuGaUEfWLi61sLlhbwDX/0xQKXWZ+AbD0ue3GBohrA39X2AgHEKQsVxIYYtGs/6c8K0t1dhnJ5dbjnAXd3EftdE89Bk+LMzH/hZ2tWxtaPhyv1NT+4IaBpLtz0AAswtwHCuAHER0oiTuwzPa6JCK8ULfD/UnacN6HR+Oxqd366BxoGB760Bw56+luXn1o6OjYqOiwsbntzR0NJtNcZjX7uq0KRhW7ttHg16COy5SEdItne7Y6KxbziwQi8p/umbRsC9KO1tz4XbKdJIp30STqcyBPknTodzWEoA33pcRZ2AxYV1ZjrHsJ+rElhDodzD+flCyIvMWSA+WLjpxjxnmudqQWw4Ae/L+T1MNGAp8XckgCr1Pkp7fWwTcPErAX/RkC9rgS4LjYEm+QDcQtjiVrZj/ttbXkbqsQi6oHgP+72icUUQbgvw60vbDLhJwOsELMbn5vIM7HdZyAt9RCUdvUQX1oV7hZGwUh7ooGr/b6kf+7d0LJyOqgmFzuMn7AeIcUJwq4kAAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;wnd app='firefox.exe' cls='MozillaWindowClass' title='Subledger Journal Entry - Mozilla Firefox' /&gt;" SearchSteps="Image" TargetType="ImageBased" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1765, 870, 42, 19" Guid="c3abd67c-0032-4fb0-825c-491886eae039" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACoAAAATCAYAAADmtp8+AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACJSURBVEhL7dExCoAwDIVhb9y79R7Obk6eoNCpQyRC4FmC2BgQJcJPhQflQ6dSKn2hgHoXUO8C6t3/oTlnSikd8fvdzdowVADcvDbiB0GCxE3q7xrJ9EURwueytRNI27R7RjJDEYKYq+1JJqj8XoT0v17bnmT+ogLSIP3GJ+6WTNA3Cqh3AfWt0g7K2L86KuWEPQAAAABJRU5ErkJggg==" SearchSteps="Image" TargetType="ImageBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a79527af30992610a7984c94c7fa824c.png" xmlns="">06FtBstpuWUCY38JzVvatIA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

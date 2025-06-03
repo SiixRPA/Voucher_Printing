@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ZnJINeW_W06pY6hzWB55WA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="8540e39e-08dc-4abb-9bdf-66096db032c5" CvTextArea="72, 40, 29, 13" CvTextArgument="View" CvType="Text" DesignTimeRectangle="69, 31, 36, 30" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;java name='View ALT V' role='menu' /&gt;" FuzzySelectorArgument="&lt;java name='View ALT V' role='menu' check:text='View ALT V' /&gt;" Guid="9259ac52-e9e6-470d-aa25-440aaf3c9916" ScopeSelectorArgument="&lt;wnd app='jp2launcher.exe' cls='SunAwtFrame' title='Oracle Applications - SEPPROD (Created on 15-DEC-2017)' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="69e679fbcdc1e2ef6e1894b24e0fd109.png" xmlns="">0X2KRRh-xgkyttZECyoNZmg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="JHD47XYQp0GLRm99ULDTUw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="1898, 583, 20, 336" DesignTimeScaleFactor="1" Guid="bf210441-34cb-4f23-9ac8-1cd0c4ff6283" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABQAAAFQCAYAAAC/N17DAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKWSURBVHhe7d3NahNRGMbxXImX4GV4DX4i4kIpdC/oSqStFNxVXQtdidW1uHDTRSlSddJSbWVso02ricmkTTKTzMzreQ9MMGViK8/p4shT+L8ZQubHyZyseyrNnoirVlYD8Rx8Hyby+E0isy/b8uBFy17re2Wf1SaCBTT3KrLXWZ7LMM3t9d3FA5lZapXCE8FiJfqXZWKx/iCXo34mUTeVtx8jix6/rxRUSFeWGyw12PTCuizXRQ4N1jZYI0plvzWUqaehhf+8txQsVpdmuSTDXG4st+XafDCC67+GUvs5sNjtJ+HYvaXgzFJ7hPWSTDq9TFpHmYUv3PtgX8P9RLb2Yrn+aHPs3lLw/vOmJOZ5dWPzvHqpNA9T+dEeWujczXf2dWsvkY1aIlfmN8bu/etXjrqZNDvpCNJem/c/f48N1j/9V1bszrO6NAymD//89JqFvtQLLJbqTl8uzVVPtyma/iT0w7XGQMKDgWwb7NM3g+3GEuzEpavTJoK6SkVvLWzbmzcNtm4wvb44G1js+Oq0iWBRsZKr5uFfflidCBWdCP5rBPHOBtThssra10hcRRCPIB5BPIJ4noA6XFbpdLriKoJ4BPEI4hHEI4hHEO9sQB0u46ZgEcQjiEcQjyAeQTxPQB0u46ZgEcQjiEcQjyAeQTxPQB0u46ZgEcQjiEcQjyAeQTxPQB0u46ZgEcQjiEcQjyAeQTxPQB0u46ZgEcQjiEcQjyAeQTxPQB0u46ZgEcQjiEcQjyAeQTxPQB0u46ZgEcQjiEcQjyAeQTxPQB0u46ZgEcQjiEcQjyAeQTxPQB0u46ZgEcQjiEcQjyAeQTxPQB0u479Vx/oPQD2IQM9g4FEdPKrjBLD4yjyqg0d1lEcQb2U1kN+DlVKAiAYJkwAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;wnd app='firefox.exe' cls='MozillaWindowClass' title='Subledger Journal Entry - Mozilla Firefox' /&gt;" SearchSteps="Image" TargetType="ImageBased" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="4c562884f1800fd0b13554a1a7c77dfb.png" xmlns="">094zyFdX-p0K8Bws4rDNXoA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

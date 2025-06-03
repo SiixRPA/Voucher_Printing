@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="OA4X9l982UqZ4PVKAv2Pqw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="5f93189c-dcdb-49dc-ae07-e3a02d9bef14" CvElementArea="754, 577, 117, 30" CvTextArea="796, 585, 26, 14" CvTextArgument="Find" CvType="Button" DesignTimeRectangle="755, 578, 115, 28" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;java name='Find Invoices' role='internal frame' /&gt;&lt;java name='Find alt i' role='push button' /&gt;" FuzzySelectorArgument="&lt;java name='Find Invoices' role='internal frame' /&gt;&lt;java name='Find alt i' role='push button' check:text='Find alt i' /&gt;" Guid="bfec6fd8-e2d1-4a88-a350-5fc945d91d69" ScopeSelectorArgument="&lt;wnd app='jp2launcher.exe' cls='SunAwtFrame' title='Oracle Applications - SEPPROD (Created on 15-DEC-2017)' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="19e1206ebbb4ad21488834df48d7eded.png" xmlns="">0xYKHmV5zbESCNxnknatYIQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

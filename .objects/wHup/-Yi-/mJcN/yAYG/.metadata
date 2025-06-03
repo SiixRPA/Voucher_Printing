@@ -1,0 +1,14 @@
+﻿{
+  "Name": "I accept the risk and w…",
+  "Type": "Element",
+  "TaxonomyType": "Checkbox",
+  "Id": "yAYGMo9SlUG-l6dV9VlO_A",
+  "Reference": "8_bOyA61GkGneZmnIj78OQ/yAYGMo9SlUG-l6dV9VlO_A",
+  "ParentRef": "8_bOyA61GkGneZmnIj78OQ/mJcNAR4IsUywz36xvW-Uew",
+  "Created": "2025-01-28T09:36:54.9839477Z",
+  "Updated": "2025-01-28T09:36:54.9839477Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

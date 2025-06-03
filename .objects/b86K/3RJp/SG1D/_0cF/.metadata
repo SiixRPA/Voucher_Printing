@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Find alt i",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "_0cFmsm4pE2PnmEKiIDEzA",
+  "Reference": "8_bOyA61GkGneZmnIj78OQ/_0cFmsm4pE2PnmEKiIDEzA",
+  "ParentRef": "8_bOyA61GkGneZmnIj78OQ/SG1DysCe5ka3IVyPflfYhA",
+  "Created": "2025-01-28T10:14:19.4716781Z",
+  "Updated": "2025-01-28T10:14:19.4716781Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

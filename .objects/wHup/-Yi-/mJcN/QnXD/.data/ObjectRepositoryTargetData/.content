@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="nMvd6kF0Wk-Dfh5PlccKXg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="6387f5f1-8445-42f6-be94-a42f4dcd6b30" CvElementArea="379, 287, 65, 22" CvTextArea="400, 292, 21, 11" CvTextArgument="Run" CvType="Button" DesignTimeRectangle="379, 287, 65, 23" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;java name='Run' role='push button' /&gt;" FuzzySelectorArgument="&lt;java name='Run' role='push button' check:text='Run' /&gt;" Guid="27afdd6a-38a1-4e4b-b44a-261d6578ff70" ScopeSelectorArgument="&lt;wnd app='jp2launcher.exe' cls='SunAwtDialog' title='Security Warning' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="51237fe11170eb28dd1714563b227f1d.png" xmlns="">01KPk-NqO_k6eBZYcT3ORqw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

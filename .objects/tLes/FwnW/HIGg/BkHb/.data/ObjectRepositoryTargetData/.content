@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="XXfamjcEB0WAmkNjWHAzWQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="005985e0-2008-4f02-b9e6-e879c919e4df" CvElementArea="676, 255, 142, 23" CvType="InputBox" DesignTimeRectangle="676, 255, 142, 23" DesignTimeScaleFactor="1" ElementType="InputBox" Guid="1b8557c0-9267-4054-b128-4a732a662e41" IsResponsive="True" ScopeSelectorArgument="&lt;wnd app='firefox.exe' cls='MozillaWindowClass' title='Login - Mozilla Firefox' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="005985e0-2008-4f02-b9e6-e879c919e4df" CvTextArea="600, 256, 60, 12" CvTextArgument="*Password" CvType="Text" DesignTimeRectangle="600, 256, 60, 12" ElementType="Text" Guid="f1093c58-35c5-4014-babd-16837c888336" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="df6b9ad2e87e04d1734eebfd76c4718c.png" xmlns="">036XC4ebQhEuMbJYpIPCt5w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

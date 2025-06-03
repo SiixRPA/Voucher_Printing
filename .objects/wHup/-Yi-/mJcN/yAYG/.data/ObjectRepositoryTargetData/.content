@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="EiOAsgn_F0yrwjFwRq7wHg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="7d20fa27-7070-46a6-a238-8d29d899d961" CvElementArea="38, 291, 16, 15" CvTextArea="54, 291, 236, 14" CvTextArgument="Į accept the risk and want to run this application." CvType="CheckBox" DesignTimeRectangle="35, 279, 261, 39" DesignTimeScaleFactor="1" ElementType="CheckBox" FullSelectorArgument="&lt;java name='I accept the risk and want to run this application.' role='check box' /&gt;" FuzzySelectorArgument="&lt;java name='I accept the risk and want to run this application.' role='check box' check:fulltext='I accept the risk and want to run this application.' /&gt;" Guid="4694e2df-4c31-4fd9-96a5-064bec2953ac" ScopeSelectorArgument="&lt;wnd app='jp2launcher.exe' cls='SunAwtDialog' title='Security Warning' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="7d20fa27-7070-46a6-a238-8d29d899d961" CvElementArea="38, 291, 16, 15" CvType="CheckBox" DesignTimeRectangle="38, 291, 16, 15" ElementType="CheckBox" Guid="34f4a98b-a8ad-4494-a4f8-9101a72a8064" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ef44ca3344245188de6587d6574a8669.png" xmlns="">0IfZftfrfJEuV7PFsNzDQTQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

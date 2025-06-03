@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="sV06Lx9nz0WSQt6ahwgWqg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="c942dba0-22c1-4f0f-b1b0-86fbf3e4d81e" CvElementArea="273, 293, 72, 23" CvTextArea="299, 298, 18, 12" CvTextArgument="OK" CvType="Button" DesignTimeRectangle="273, 293, 72, 23" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;wnd ctrlid='1' title='OK' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlid='1' title='OK' check:text='OK' /&gt;" Guid="1af24dbc-3faf-4c33-949a-704dc4717513" ScopeSelectorArgument="&lt;wnd app='firefox.exe' cls='#32770' title='Print' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="fc70067924bc9c27c929970bffcc9f13.png" xmlns="">0h9a8s6MCSUa_NpR9gBCCew</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

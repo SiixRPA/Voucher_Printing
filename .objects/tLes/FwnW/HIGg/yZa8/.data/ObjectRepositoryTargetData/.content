@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="LsfAHT60hEqW26KAq9iLdw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="08a46a8d-2f01-4627-b237-b6ecd628c1db" CvTextArea="510, 608, 107, 14" CvTextArgument="Accounting Class" CvType="Text" DesignTimeRectangle="510, 608, 107, 15" DesignTimeScaleFactor="1" ElementType="Text" Guid="b01bb18f-6a11-485b-90bb-3e8c0d321564" ScopeSelectorArgument="&lt;wnd app='firefox.exe' cls='MozillaWindowClass' title='Subledger Journal Entry - Mozilla Firefox' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ec591a877df24082603a53dafc41e6e0.png" xmlns="">0Mph8DZt0vkS6kcR3V-_yGA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">KeyboardShortcut</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

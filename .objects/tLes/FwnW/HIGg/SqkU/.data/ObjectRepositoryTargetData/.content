@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="dZVBVgZN0ESC6lTS8Fe-Yg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="eaa87c1c-0787-41ea-b8f4-abbba6f22031" CvElementArea="385, 449, 142, 22" CvTextArea="397, 454, 118, 14" CvTextArgument="View Journal Entry" CvType="Button" DesignTimeRectangle="385, 449, 142, 22" DesignTimeScaleFactor="1" ElementType="Button" Guid="ed10aa02-0b8f-4107-ab4d-b0a0d8511f2d" ScopeSelectorArgument="&lt;wnd app='firefox.exe' cls='MozillaWindowClass' title='Subledger Journal Entry Lines - Mozilla Firefox' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="296081f3eab0f86f6a5c0ec4eb6b70fe.png" xmlns="">0567UPyqWG0CBrya0vcf7fg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

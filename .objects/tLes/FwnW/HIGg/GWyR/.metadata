@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Entered Currency",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "GWyRbOZaq0-T_H8X0KHhWg",
+  "Reference": "8_bOyA61GkGneZmnIj78OQ/GWyRbOZaq0-T_H8X0KHhWg",
+  "ParentRef": "8_bOyA61GkGneZmnIj78OQ/HIGgobl7Rke_Me5iMhPFsw",
+  "Created": "2025-01-29T04:00:36.2172664Z",
+  "Updated": "2025-01-29T04:00:36.2172664Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
