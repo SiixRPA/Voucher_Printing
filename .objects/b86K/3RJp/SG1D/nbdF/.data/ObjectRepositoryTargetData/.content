@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="TWTltpruP0-yvNAmwsSY_w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="Bvuxqya7jk6nnFpOG5fMKw" Reference="8_bOyA61GkGneZmnIj78OQ/nbdFVYKlsESlHUcGPtFrpA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="c2da389a-dceb-467c-8fdf-35a04f588f87" CvTextArea="195, 40, 45, 14" CvTextArgument="Reports" CvType="Text" DesignTimeRectangle="191, 31, 54, 30" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;java name='Reports' role='menu' /&gt;" FuzzySelectorArgument="&lt;java name='Reports' role='menu' check:text='Reports' /&gt;" Guid="03e3478e-4fea-4294-bca1-fe7318ec92f4" ScopeSelectorArgument="&lt;wnd app='jp2launcher.exe' cls='SunAwtFrame' title='Oracle Applications - SEPPROD (Created on 15-DEC-2017)' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="a56cfb6bb09633b48d18032d20490c29.png" xmlns="">0DQXfc0SmDkW_wgtF4lxptg</imageRef>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="c2da389a-dceb-467c-8fdf-35a04f588f87" CvTextArea="195, 40, 45, 14" CvTextArgument="Reports" CvType="Text" DesignTimeRectangle="191, 31, 54, 30" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;java name='Reports' role='menu' /&gt;" FuzzySelectorArgument="&lt;java name='Reports' role='menu' check:text='Reports' /&gt;" Guid="03e3478e-4fea-4294-bca1-fe7318ec92f4" ScopeSelectorArgument="&lt;wnd app='jp2launcher.exe' cls='SunAwtFrame' title='Oracle Applications - SEPPROD (Created on 15-DEC-2017)' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="a56cfb6bb09633b48d18032d20490c29.png" xmlns="">0B9PuN8siAEKVN5XLzrle0g</imageRef>
     </TargetAnchorable>
     <x:String x:Key="ActivityType">Click</x:String>
   </ObjectRepositoryTargetData.Data>
